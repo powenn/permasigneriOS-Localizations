@@ -1,0 +1,102 @@
+/* No comment provided by engineer. */
+"\nIf you want to prevent original apps being replaced,\nIt is recommended to modify like this\n\nExampleApp2\nExampleApp2\ncom.example.exampleapp2\n\nWARNING:PLEASE MAKE SURE THE NAME\nIS NOT AS SAME AS THE SYSTEM APP NAMES" = "\n إذا كنت ترغب في منع استبدال التطبيقات الأصلية,\n من المستحسن تعديل هكذا\n\nExampleApp2\nExampleApp2\ncom.example.exampleapp2\n\n خطأ: يرجى التأكد من الاسم\n ليست مثل أسماء تطبيقات
+
+/* No comment provided by engineer. */
+"All packages in Package Folder have been removed" = "تمت إزالة جميع البينات الموجودة في المجلد";
+
+/* No comment provided by engineer. */
+"App Bundle" = "حزمة التطبيقات";
+
+/* No comment provided by engineer. */
+"App Info" = "معلومات التطبيق";
+
+/* No comment provided by engineer. */
+"App Name" = "أسم التطبيق";
+
+/* No comment provided by engineer. */
+"App Package Name" = "اسم ملف التطبيق";
+
+/* No comment provided by engineer. */
+"Check issues on Github" = "التحقق من الاخطاء في Github";
+
+/* No comment provided by engineer. */
+"Clear All Packages" = "حذف جميع البيانات";
+
+/* No comment provided by engineer. */
+"CoreTrust exploit" = "CoreTrust استغلال ثغره";
+
+/* No comment provided by engineer. */
+"Credits" = "الحقوق";
+
+/* No comment provided by engineer. */
+"Custom Info" = "معلومات مخصصة";
+
+/* No comment provided by engineer. */
+"Customize .deb file description\n( Leave blank to use default )" = "Customize .deb file description\n( اتركه فارغا لاستخدام الوضع الافتراضي )";
+
+/* No comment provided by engineer. */
+"Customize App Bundle" = "تعديل اسم حزمة التطبيق";
+
+/* No comment provided by engineer. */
+"Customize App Name" = "تعديل اسم التطبيق";
+
+/* No comment provided by engineer. */
+"Customize App Package Name\n(The name of .app directory)" = "تخصيص اسم حزمة التطبيق\n(الاسم الخاص بـ .حزمة التطبيق)";
+
+/* No comment provided by engineer. */
+"Description" = "الوصف";
+
+/* No comment provided by engineer. */
+"Document Folder Path\n/var/mobile/Documents/permasigneriOS\n\nPlease be patient during the sign process,\nespecially signing a complex app with\nlots of frameworks\n\nIf you're having problems, please check Github issues before asking\n\nThis is iOS ported of itsnebulalol's permasigner" = "مسار مجلد المستند\n/var/mobile/Documents/permasigneriOS\n\n يرجى التحلي بالصبر أثناء عملية التوقيع ،\n خاصة التوقيع على تطبيق معقد باستخدام\n الكثير من ايطارات الحزم\n\n إذا كنت تواجه مشاكل ، فالرجاء التحقق من المشاكل في Github قبل السؤال\n\n هذا هو نظام التشغيل iOS الذي تم نقله من أداة تصميم itsnebulalol";
+
+/* No comment provided by engineer. */
+"Done" = "تم";
+
+/* No comment provided by engineer. */
+"Help and code contribution" = "التعليمات ومساهمة التعليمات البرمجية";
+
+/* No comment provided by engineer. */
+"Importing iPA file" = "استيراد ملف iPA";
+
+/* No comment provided by engineer. */
+"No .ipa file selected" = "لم يتم تحديد ملف .ipa";
+
+/* No comment provided by engineer. */
+"Oh no" = "اوه لا";
+
+/* No comment provided by engineer. */
+"OK" = "حسناً";
+
+/* No comment provided by engineer. */
+"Okay" = "حسناً";
+
+/* No comment provided by engineer. */
+"Open Package Folder in Filza" = "افتح مجلد الحزمات في Filza";
+
+/* No comment provided by engineer. */
+"Original Permasigner Developer" = "المطور الأصلي Permasigner";
+
+/* No comment provided by engineer. */
+"Permasigner-iOS Developer" = "مطور Permasigner-iOS";
+
+/* No comment provided by engineer. */
+"Select File" = "حدد ملف";
+
+/* No comment provided by engineer. */
+"Sign" = "وقع";
+
+/* No comment provided by engineer. */
+"Source Code" = "مصادر البرنامج";
+
+/* No comment provided by engineer. */
+"version" = "الإصدار";
+
+/* No comment provided by engineer. */
+"View on Github" = "عرض على Github";
+
+/* No comment provided by engineer. */
+"View the file now?" = "عرض الملف الآن؟";
+
+/* No comment provided by engineer. */
+"You need Filza to view the file" = "أنت بحاجة إلى Filza لعرض الملف";
+
