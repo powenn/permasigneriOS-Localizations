@@ -1,0 +1,11 @@
+Package: com.powen.permasignerios.localizations
+Name: permasigneriOS localizations
+Description: permasigneriOS localizations
+Author: Powen <powen0966091716@gmail.com>
+Maintainer: Powen <powen0966091716@gmail.com>
+Version: @@VERSION@@
+Section: localizations
+Depends: com.powen.permasignerios
+Pre-Depends: firmware (>= 14.0)
+Architecture: iphoneos-arm
+depiction: https://github.com/powenn/permasigneriOS-Localizations
