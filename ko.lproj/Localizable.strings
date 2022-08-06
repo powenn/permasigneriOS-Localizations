@@ -2,12 +2,6 @@
 "\nIf you want to prevent original apps being replaced,\nIt is recommended to modify like this\n\nExampleApp2\nExampleApp2\ncom.example.exampleapp2\n\nWARNING:PLEASE MAKE SURE THE NAME\nIS NOT AS SAME AS THE SYSTEM APP NAMES" = "\n기존앱이 교체(대치)되는 것을 방지하고 싶으시다면,\n다음과 같이 수정하는걸 권장합니다\n\nExampleApp2\nExampleApp2\ncom.example.exampleapp2\n\n경고:이름을 확인하세요\n시스템 앱의 이름과 동일하지 않습니다";
 
 /* No comment provided by engineer. */
-"%@" = "%@";
-
-/* No comment provided by engineer. */
-"%@.%@" = "%@.%@";
-
-/* No comment provided by engineer. */
 "All packages in Package Folder have been removed" = "패키지 폴더속 모든 패키지가 제거됐습니다!";
 
 /* No comment provided by engineer. */
@@ -105,3 +99,4 @@
 
 /* No comment provided by engineer. */
 "You need Filza to view the file" = "해당파일을 열려면 Filza가 필요합니다";
+
