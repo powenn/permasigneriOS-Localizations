@@ -1,0 +1,102 @@
+/* No comment provided by engineer. */
+"\nIf you want to prevent original apps being replaced,\nIt is recommended to modify like this\n\nExampleApp2\nExampleApp2\ncom.example.exampleapp2\n\nWARNING:PLEASE MAKE SURE THE NAME\nIS NOT AS SAME AS THE SYSTEM APP NAMES" = "如果想避免原本的应用被取代\n建议像这样修改\n\nExampleApp2\nExampleApp2\ncom.example.exampleapp2\n\n警告：请确保名称和系统应用名称不同";
+
+/* No comment provided by engineer. */
+"All packages in Package Folder have been removed" = "所有输出资料夹内的档案都已经清除";
+
+/* No comment provided by engineer. */
+"App Bundle" = "应用辨识符";
+
+/* No comment provided by engineer. */
+"App Info" = "应用资讯";
+
+/* No comment provided by engineer. */
+"App Name" = "应用名称";
+
+/* No comment provided by engineer. */
+"App Package Name" = "应用包名称";
+
+/* No comment provided by engineer. */
+"Check issues on Github" = "查看Github上的问题";
+
+/* No comment provided by engineer. */
+"Clear All Packages" = "清理所有档案";
+
+/* No comment provided by engineer. */
+"CoreTrust exploit" = "CoreTrust漏洞";
+
+/* No comment provided by engineer. */
+"Credits" = "致谢";
+
+/* No comment provided by engineer. */
+"Custom Info" = "自订资讯";
+
+/* No comment provided by engineer. */
+"Customize .deb file description\n( Leave blank to use default )" = "自订.deb档案描述\n(留白则使用预设描述)";
+
+/* No comment provided by engineer. */
+"Customize App Bundle" = "自订应用辨识符";
+
+/* No comment provided by engineer. */
+"Customize App Name" = "自订应用名称";
+
+/* No comment provided by engineer. */
+"Customize App Package Name\n(The name of .app directory)" = "自订应用包名称\n(.app目录名称)";
+
+/* No comment provided by engineer. */
+"Description" = "描述";
+
+/* No comment provided by engineer. */
+"Document Folder Path\n/var/mobile/Documents/permasigneriOS\n\nPlease be patient during the sign process,\nespecially signing a complex app with\nlots of frameworks\n\nIf you're having problems, please check Github issues before asking\n\nThis is iOS ported of itsnebulalol's permasigner" = "档案资料夹路径\n/var/mobile/Documents/permasigneriOS\n\n签名过程请耐心等候，尤其是签署包含许多框架的复杂应用\n\n如果遇到问题，请在发问前先查看Github上的问题\n\n这是源自itsnebulalol的permasigner iOS移植项目";
+
+/* No comment provided by engineer. */
+"Done" = "完成";
+
+/* No comment provided by engineer. */
+"Help and code contribution" = "帮助和程式码贡献";
+
+/* No comment provided by engineer. */
+"Importing iPA file" = "正在导入ipa档";
+
+/* No comment provided by engineer. */
+"No .ipa file selected" = "尚未选择ipa档";
+
+/* No comment provided by engineer. */
+"Oh no" = "喔不";
+
+/* No comment provided by engineer. */
+"OK" = "好";
+
+/* No comment provided by engineer. */
+"Okay" = "好的";
+
+/* No comment provided by engineer. */
+"Open Package Folder in Filza" = "用Filza开启输出档案资料夹";
+
+/* No comment provided by engineer. */
+"Original Permasigner Developer" = "原Permasigner项目开发人员";
+
+/* No comment provided by engineer. */
+"Permasigner-iOS Developer" = "Permasigner-iOS开发人员";
+
+/* No comment provided by engineer. */
+"Select File" = "选择档案";
+
+/* No comment provided by engineer. */
+"Sign" = "签名";
+
+/* No comment provided by engineer. */
+"Source Code" = "原始码";
+
+/* No comment provided by engineer. */
+"version" = "版本";
+
+/* No comment provided by engineer. */
+"View on Github" = "在Github上查看";
+
+/* No comment provided by engineer. */
+"View the file now?" = "现在浏览档案？";
+
+/* No comment provided by engineer. */
+"You need Filza to view the file" = "你需要Filza以浏览档案";
+
