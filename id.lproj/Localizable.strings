@@ -2,12 +2,6 @@
 "\nIf you want to prevent original apps being replaced,\nIt is recommended to modify like this\n\nExampleApp2\nExampleApp2\ncom.example.exampleapp2\n\nWARNING:PLEASE MAKE SURE THE NAME\nIS NOT AS SAME AS THE SYSTEM APP NAMES" = "\nJika Anda ingin mencegah aplikasi asli diganti,\nDisarankan untuk memodifikasi seperti ini\n\nExampleApp2\nExampleApp2\ncom.example.exampleapp2\n\nPERINGATAN: PASTIKAN NAMA\nTIDAK SAMA DENGAN APLIKASI SISTEM NAMA";
 
 /* No comment provided by engineer. */
-"%@" = "%@";
-
-/* No comment provided by engineer. */
-"%@.%@" = "%@.%@";
-
-/* No comment provided by engineer. */
 "All packages in Package Folder have been removed" = "Semua paket di Folder Paket telah dihapus";
 
 /* No comment provided by engineer. */
