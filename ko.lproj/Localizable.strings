@@ -1,0 +1,107 @@
+/* No comment provided by engineer. */
+"\nIf you want to prevent original apps being replaced,\nIt is recommended to modify like this\n\nExampleApp2\nExampleApp2\ncom.example.exampleapp2\n\nWARNING:PLEASE MAKE SURE THE NAME\nIS NOT AS SAME AS THE SYSTEM APP NAMES" = "\n기존앱이 교체(대치)되는 것을 방지하고 싶으시다면,\n다음과 같이 수정하는걸 권장합니다\n\nExampleApp2\nExampleApp2\ncom.example.exampleapp2\n\n경고:이름을 확인하세요\n시스템 앱의 이름과 동일하지 않습니다";
+
+/* No comment provided by engineer. */
+"%@" = "%@";
+
+/* No comment provided by engineer. */
+"%@.%@" = "%@.%@";
+
+/* No comment provided by engineer. */
+"All packages in Package Folder have been removed" = "패키지 폴더속 모든 패키지가 제거됐습니다!";
+
+/* No comment provided by engineer. */
+"App Bundle" = "앱 번들";
+
+/* No comment provided by engineer. */
+"App Info" = "앱정보";
+
+/* No comment provided by engineer. */
+"App Name" = "앱 이름";
+
+/* No comment provided by engineer. */
+"App Package Name" = "앱 패키지 이름";
+
+/* No comment provided by engineer. */
+"Check issues on Github" = "문제를 Github에서 확인해보세요";
+
+/* No comment provided by engineer. */
+"Clear All Packages" = "모든 패키지 비우기";
+
+/* No comment provided by engineer. */
+"CoreTrust exploit" = "코어트러스트 취약";
+
+/* No comment provided by engineer. */
+"Credits" = "크레딧";
+
+/* No comment provided by engineer. */
+"Custom Info" = "정보 수정";
+
+/* No comment provided by engineer. */
+"Customize .deb file description\n( Leave blank to use default )" = ".deb 파일 설명 수정\n( 기본값으로 사용시 비워두세요! )";
+
+/* No comment provided by engineer. */
+"Customize App Bundle" = "앱 번들 수정";
+
+/* No comment provided by engineer. */
+"Customize App Name" = "앱 이름 수정";
+
+/* No comment provided by engineer. */
+"Customize App Package Name\n(The name of .app directory)" = "앱 패키지 이름 수정\n(.app 경로의 이름)";
+
+/* No comment provided by engineer. */
+"Description" = "설명";
+
+/* No comment provided by engineer. */
+"Document Folder Path\n/var/mobile/Documents/permasigneriOS\n\nPlease be patient during the sign process,\nespecially signing a complex app with\nlots of frameworks\n\nIf you're having problems, please check Github issues before asking\n\nThis is iOS ported of itsnebulalol's permasigner" = "문서 폴더 경로\n/var/mobile/Documents/permasigneriOS\n\n서명중입니다 잠시만 기다려 주세요!,\n특히 프레임워크가 많이 있는\nlots of frameworks\n\n복잡한 앱에 서명하는중 문제가 생긴다면, Github이슈탭을 먼저 확인한 후 질문해주세요\n\nitsnebulalol's permasigner를 iOS로 이식했는지 질문하세요";
+
+/* No comment provided by engineer. */
+"Done" = "완료";
+
+/* No comment provided by engineer. */
+"Help and code contribution" = "코드 기여및 도움";
+
+/* No comment provided by engineer. */
+"Importing iPA file" = "ipa파일 넣는중";
+
+/* No comment provided by engineer. */
+"No .ipa file selected" = "ipa파일이 선택되지 않았습니다";
+
+/* No comment provided by engineer. */
+"Oh no" = "이런";
+
+/* No comment provided by engineer. */
+"OK" = "확인";
+
+/* No comment provided by engineer. */
+"Okay" = "확인";
+
+/* No comment provided by engineer. */
+"Open Package Folder in Filza" = "패키지 폴더를 filza에서 열기";
+
+/* No comment provided by engineer. */
+"Original Permasigner Developer" = "오리지널 Permasigner 개발자";
+
+/* No comment provided by engineer. */
+"Permasigner-iOS Developer" = "Permasigner-iOS 개발자";
+
+/* No comment provided by engineer. */
+"Select File" = "파일 선택";
+
+/* No comment provided by engineer. */
+"Sign" = "서명";
+
+/* No comment provided by engineer. */
+"Source Code" = "소스코드";
+
+/* No comment provided by engineer. */
+"version" = "버전";
+
+/* No comment provided by engineer. */
+"View on Github" = "Github에서 보기";
+
+/* No comment provided by engineer. */
+"View the file now?" = "파일을 여시겠습니까?";
+
+/* No comment provided by engineer. */
+"You need Filza to view the file" = "해당파일을 열려면 Filza가 필요합니다";
