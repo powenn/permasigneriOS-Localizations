@@ -6,7 +6,7 @@ cd "$(dirname "$0")"
 
 WORKING_LOCATION="$(pwd)"
 APPLICATION_NAME="permasigneriOS"
-BUILD_VERSION=1.0
+BUILD_VERSION=1.0.1
 
 rm -rf *.deb
 rm -rf build || true

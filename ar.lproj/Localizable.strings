@@ -1,5 +1,5 @@
 /* No comment provided by engineer. */
-"\nIf you want to prevent original apps being replaced,\nIt is recommended to modify like this\n\nExampleApp2\nExampleApp2\ncom.example.exampleapp2\n\nWARNING:PLEASE MAKE SURE THE NAME\nIS NOT AS SAME AS THE SYSTEM APP NAMES" = "\n إذا كنت ترغب في منع استبدال التطبيقات الأصلية,\n من المستحسن تعديل هكذا\n\nExampleApp2\nExampleApp2\ncom.example.exampleapp2\n\n خطأ: يرجى التأكد من الاسم\n ليست مثل أسماء تطبيقات
+"\nIf you want to prevent original apps being replaced,\nIt is recommended to modify like this\n\nExampleApp2\nExampleApp2\ncom.example.exampleapp2\n\nWARNING:PLEASE MAKE SURE THE NAME\nIS NOT AS SAME AS THE SYSTEM APP NAMES" = "\n إذا كنت ترغب في منع استبدال التطبيقات الأصلية,\n من المستحسن تعديل هكذا\n\nExampleApp2\nExampleApp2\ncom.example.exampleapp2\n\n خطأ: يرجى التأكد من الاسم\n ليست مثل أسماء تطبيقات";
 
 /* No comment provided by engineer. */
 "All packages in Package Folder have been removed" = "تمت إزالة جميع البينات الموجودة في المجلد";
