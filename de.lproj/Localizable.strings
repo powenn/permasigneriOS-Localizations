@@ -50,25 +50,25 @@
 "Customize App Package Name\n(The name of .app directory)" = "Customize App Package Name\n(The name of .app directory)";
 
 /* No comment provided by engineer. */
-"Description" = "Description";
+"Description" = "Beschreibung";
 
 /* No comment provided by engineer. */
-"Document Folder Path\n/var/mobile/Documents/permasigneriOS\n\nPlease be patient during the sign process,\nespecially signing a complex app with\nlots of frameworks\n\nIf you're having problems, please check Github issues before asking\n\nThis is iOS ported of itsnebulalol's permasigner" = "Document Folder Path\n/var/mobile/Documents/permasigneriOS\n\nPlease be patient during the sign process,\nespecially signing a complex app with\nlots of frameworks\n\nIf you're having problems, please check Github issues before asking\n\nThis is iOS ported of itsnebulalol's permasigner";
+"Document Folder Path\n/var/mobile/Documents/permasigneriOS\n\nPlease be patient during the sign process,\nespecially signing a complex app with\nlots of frameworks\n\nIf you're having problems, please check Github issues before asking\n\nThis is iOS ported of itsnebulalol's permasigner" = "Dokumentordnerpfad\n/var/mobile/Documents/permasigneriOS\n\nPlease be patient during the sign process,\nespecially signing a complex app with\nlots of frameworks\n\nIf you're having problems, please check Github issues before asking\n\nThis is iOS ported of itsnebulalol's permasigner";
 
 /* No comment provided by engineer. */
-"Done" = "Done";
+"Done" = "Fertig";
 
 /* No comment provided by engineer. */
-"Help and code contribution" = "Help and code contribution";
+"Help and code contribution" = "Hilfe und Beitrag zur Entwicklung";
 
 /* No comment provided by engineer. */
-"Importing iPA file" = "Importing iPA file";
+"Importing iPA file" = "iPA-Datei importieren";
 
 /* No comment provided by engineer. */
-"No .ipa file selected" = "No .ipa file selected";
+"No .ipa file selected" = "Keine .ipa-Datei ausgewählt";
 
 /* No comment provided by engineer. */
-"Oh no" = "Oh no";
+"Oh no" = "Oh nein";
 
 /* No comment provided by engineer. */
 "OK" = "OK";
@@ -77,32 +77,32 @@
 "Okay" = "Okay";
 
 /* No comment provided by engineer. */
-"Open Package Folder in Filza" = "Open Package Folder in Filza";
+"Open Package Folder in Filza" = "Öffne Paketordner in Filza";
 
 /* No comment provided by engineer. */
-"Original Permasigner Developer" = "Original Permasigner Developer";
+"Original Permasigner Developer" = "Original Permasigner Entwickler";
 
 /* No comment provided by engineer. */
-"Permasigner-iOS Developer" = "Permasigner-iOS Developer";
+"Permasigner-iOS Developer" = "Permasigner-iOS Entwickler";
 
 /* No comment provided by engineer. */
-"Select File" = "Select File";
+"Select File" = "Datei auswählen";
 
 /* No comment provided by engineer. */
-"Sign" = "Sign";
+"Sign" = "Signieren";
 
 /* No comment provided by engineer. */
-"Source Code" = "Source Code";
+"Source Code" = "Quell-Code";
 
 /* No comment provided by engineer. */
-"version" = "version";
+"version" = "Version";
 
 /* No comment provided by engineer. */
-"View on Github" = "View on Github";
+"View on Github" = "Auf Github ansehen";
 
 /* No comment provided by engineer. */
-"View the file now?" = "View the file now?";
+"View the file now?" = "Datei jetzt ansehen?";
 
 /* No comment provided by engineer. */
-"You need Filza to view the file" = "You need Filza to view the file";
+"You need Filza to view the file" = "Du benötigst Filza, um die Datei anzuzeigen";
 
