@@ -1,5 +1,5 @@
 /* No comment provided by engineer. */
-"\nIf you want to prevent original apps being replaced,\nIt is recommended to modify like this\n\nExampleApp2\nExampleApp2\ncom.example.exampleapp2\n\nWARNING:PLEASE MAKE SURE THE NAME\nIS NOT AS SAME AS THE SYSTE0M APP NAMES" = "\nWenn du verhindern möchtest, dass Original-Apps ersetzt werden,\nwird empfohlen, so zu modifizieren\n\nExampleApp2\nExampleApp2\ncom.example.exampleapp2\n\nWARNUNG: BITTE STELLE SICHER, DASS DER NAMEN \n NICHT DEN SELBEN NAMEN DER SYSTEM-APP HAT";
+"\nIf you want to prevent original apps being replaced,\nIt is recommended to modify like this\n\nExampleApp2\nExampleApp2\ncom.example.exampleapp2\n\nWARNING:PLEASE MAKE SURE THE NAME\nIS NOT AS SAME AS THE SYSTE0M APP NAMES" = "\n Wenn du verhindern möchtest, dass Original-Apps ersetzt werden, \n wird empfohlen, so zu modifizieren \n\nExampleApp2\nExampleApp2\ncom.example.exampleapp2\n\n WARNUNG: BITTE STELLE SICHER, DASS DER NAMEN \n NICHT DEN SELBEN NAMEN DER SYSTEM-APP HAT";
 
 /* No comment provided by engineer. */
 "%@" = "%@";
@@ -38,7 +38,7 @@
 "Custom Info" = "Benutzerdefinierte Informationen";
 
 /* No comment provided by engineer. */
-"Customize .deb file description\n( Leave blank to use default )" = "Passe die Beschreibung der .deb-Datei an\n( Leer lassen, um Standard zu verwenden )";
+"Customize .deb file description\n( Leave blank to use default )" = "Passe die Beschreibung der .deb-Datei an \n ( Leer lassen, um Standard zu verwenden )";
 
 /* No comment provided by engineer. */
 "Customize App Bundle" = "App-Bundle anpassen";
@@ -47,13 +47,13 @@
 "Customize App Name" = "App-Namen anpassen";
 
 /* No comment provided by engineer. */
-"Customize App Package Name\n(The name of .app directory)" = "Passe den App-Paketnamen an\n(Der Name des .app-Verzeichnisses)";
+"Customize App Package Name\n(The name of .app directory)" = "Passe den App-Paketnamen \n an (Der Name des .app-Verzeichnisses)";
 
 /* No comment provided by engineer. */
 "Description" = "Beschreibung";
 
 /* No comment provided by engineer. */
-"Document Folder Path\n/var/mobile/Documents/permasigneriOS\n\nPlease be patient during the sign process,\nespecially signing a complex app with\nlots of frameworks\n\nIf you're having problems, please check Github issues before asking\n\nThis is iOS ported of itsnebulalol's permasigner" = "Dokumentordnerpfad\n/var/mobile/Documents/permasigneriOS\n\nBitte habe während des Signaturvorgangs etwas Geduld,\ninsbesondere beim Signieren einer komplexen App mit\nvielen Frameworks\n\nWenn du Probleme hast, überprüfe bitte die Github-Probleme, bevor du fragst\n\nDies ist eine iOS-Portierung des Permasigners von itsnebulalol";
+"Document Folder Path\n/var/mobile/Documents/permasigneriOS\n\nPlease be patient during the sign process,\nespecially signing a complex app with\nlots of frameworks\n\nIf you're having problems, please check Github issues before asking\n\nThis is iOS ported of itsnebulalol's permasigner" = "Dokumentordnerpfad \n /var/mobile/Documents/permasigneriOS \n\n Bitte habe während des Signaturvorgangs etwas Geduld, \n insbesondere beim Signieren einer komplexen App mit \n vielen Frameworks \n\n Wenn du Probleme hast, überprüfe bitte die Github-Probleme, bevor du fragst \n\n Dies ist eine iOS-Portierung des Permasigners von itsnebulalol";
 
 /* No comment provided by engineer. */
 "Done" = "Fertig";
