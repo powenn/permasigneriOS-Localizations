@@ -1,0 +1,108 @@
+/* No comment provided by engineer. */
+"\nIf you want to prevent original apps being replaced,\nIt is recommended to modify like this\n\nExampleApp2\nExampleApp2\ncom.example.exampleapp2\n\nWARNING:PLEASE MAKE SURE THE NAME\nIS NOT AS SAME AS THE SYSTE0M APP NAMES" = "\n Wenn du verhindern möchtest, dass Original-Apps ersetzt werden, \n wird empfohlen, so zu modifizieren \n\nExampleApp2\nExampleApp2\ncom.example.exampleapp2\n\n WARNUNG: BITTE STELLE SICHER, DASS DER NAMEN \n NICHT DEN SELBEN NAMEN DER SYSTEM-APP HAT";
+
+/* No comment provided by engineer. */
+"%@" = "%@";
+
+/* No comment provided by engineer. */
+"%@.%@" = "%@.%@";
+
+/* No comment provided by engineer. */
+"All packages in Package Folder have been removed" = "Alle Pakete im Paketordner wurden entfernt";
+
+/* No comment provided by engineer. */
+"App Bundle" = "App-Bundle";
+
+/* No comment provided by engineer. */
+"App Info" = "App-Info";
+
+/* No comment provided by engineer. */
+"App Name" = "App-Name";
+
+/* No comment provided by engineer. */
+"App Package Name" = "App-Paketname";
+
+/* No comment provided by engineer. */
+"Check issues on Github" = "Überprüfe die Probleme auf Github";
+
+/* No comment provided by engineer. */
+"Clear All Packages" = "Alle Pakete löschen";
+
+/* No comment provided by engineer. */
+"CoreTrust exploit" = "CoreTrust-Exploit";
+
+/* No comment provided by engineer. */
+"Credits" = "Danksagungen";
+
+/* No comment provided by engineer. */
+"Custom Info" = "Benutzerdefinierte Informationen";
+
+/* No comment provided by engineer. */
+"Customize .deb file description\n( Leave blank to use default )" = "Passe die Beschreibung der .deb-Datei an \n ( Leer lassen, um Standard zu verwenden )";
+
+/* No comment provided by engineer. */
+"Customize App Bundle" = "App-Bundle anpassen";
+
+/* No comment provided by engineer. */
+"Customize App Name" = "App-Namen anpassen";
+
+/* No comment provided by engineer. */
+"Customize App Package Name\n(The name of .app directory)" = "Passe den App-Paketnamen \n an (Der Name des .app-Verzeichnisses)";
+
+/* No comment provided by engineer. */
+"Description" = "Beschreibung";
+
+/* No comment provided by engineer. */
+"Document Folder Path\n/var/mobile/Documents/permasigneriOS\n\nPlease be patient during the sign process,\nespecially signing a complex app with\nlots of frameworks\n\nIf you're having problems, please check Github issues before asking\n\nThis is iOS ported of itsnebulalol's permasigner" = "Dokumentordnerpfad \n /var/mobile/Documents/permasigneriOS \n\n Bitte habe während des Signaturvorgangs etwas Geduld, \n insbesondere beim Signieren einer komplexen App mit \n vielen Frameworks \n\n Wenn du Probleme hast, überprüfe bitte die Github-Probleme, bevor du fragst \n\n Dies ist eine iOS-Portierung des Permasigners von itsnebulalol";
+
+/* No comment provided by engineer. */
+"Done" = "Fertig";
+
+/* No comment provided by engineer. */
+"Help and code contribution" = "Hilfe und Beitrag zur Entwicklung";
+
+/* No comment provided by engineer. */
+"Importing iPA file" = "iPA-Datei importieren";
+
+/* No comment provided by engineer. */
+"No .ipa file selected" = "Keine .ipa-Datei ausgewählt";
+
+/* No comment provided by engineer. */
+"Oh no" = "Oh nein";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Okay" = "Okay";
+
+/* No comment provided by engineer. */
+"Open Package Folder in Filza" = "Öffne Paketordner in Filza";
+
+/* No comment provided by engineer. */
+"Original Permasigner Developer" = "Original Permasigner Entwickler";
+
+/* No comment provided by engineer. */
+"Permasigner-iOS Developer" = "Permasigner-iOS Entwickler";
+
+/* No comment provided by engineer. */
+"Select File" = "Datei auswählen";
+
+/* No comment provided by engineer. */
+"Sign" = "Signieren";
+
+/* No comment provided by engineer. */
+"Source Code" = "Quell-Code";
+
+/* No comment provided by engineer. */
+"version" = "Version";
+
+/* No comment provided by engineer. */
+"View on Github" = "Auf Github ansehen";
+
+/* No comment provided by engineer. */
+"View the file now?" = "Datei jetzt ansehen?";
+
+/* No comment provided by engineer. */
+"You need Filza to view the file" = "Du benötigst Filza, um die Datei anzuzeigen";
+
