@@ -20,7 +20,7 @@
 "Check issues on Github" = "查看Github上的问题";
 
 /* No comment provided by engineer. */
-"Clear All Packages" = "清理所有档案";
+"Clear All Packages" = "清理所有已签名文件";
 
 /* No comment provided by engineer. */
 "CoreTrust exploit" = "CoreTrust漏洞";
@@ -29,7 +29,7 @@
 "Credits" = "致谢";
 
 /* No comment provided by engineer. */
-"Custom Info" = "自订资讯";
+"Custom Info" = "自定义信息";
 
 /* No comment provided by engineer. */
 "Customize .deb file description\n( Leave blank to use default )" = "自订.deb档案描述\n(留白则使用预设描述)";
@@ -59,7 +59,7 @@
 "Importing iPA file" = "正在导入ipa档";
 
 /* No comment provided by engineer. */
-"No .ipa file selected" = "尚未选择ipa档";
+"No .ipa file selected" = "尚末选择ipa文件";
 
 /* No comment provided by engineer. */
 "Oh no" = "喔不";
@@ -71,7 +71,7 @@
 "Okay" = "好的";
 
 /* No comment provided by engineer. */
-"Open Package Folder in Filza" = "用Filza开启输出档案资料夹";
+"Open Package Folder in Filza" = "用Filza打开已签名文件位置";
 
 /* No comment provided by engineer. */
 "Original Permasigner Developer" = "原Permasigner项目开发人员";
@@ -80,7 +80,7 @@
 "Permasigner-iOS Developer" = "Permasigner-iOS开发人员";
 
 /* No comment provided by engineer. */
-"Select File" = "选择档案";
+"Select File" = "选择文件";
 
 /* No comment provided by engineer. */
 "Sign" = "签名";
